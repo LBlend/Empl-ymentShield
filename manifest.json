@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Rainbow Duck",
+  "name": "Empl*ymentShield",
   "version": "1.0",
   "description": "Animate every occurrence of the word 'duck' with a wavy, rainbow animation.",
   "permissions": ["activeTab", "scripting"],
